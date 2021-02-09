@@ -1,6 +1,9 @@
 # CDS-Water-Level-Indicator-Scripts
 Scripts developed during Copernicus Climate Data Store Adaptation Application course
 
+You can view the charts by selecting them from teh index page - https://dancasey-ie.github.io/CDS-Water-Level-Indicator-Scripts/index.html
+
+
 Notes:
 -------------
 * The output of the scripts are HTML interactive Plolty.py charts that can be opened in your browser
